@@ -5,7 +5,7 @@
   <a href="mailto:snehu2349@gmail.com">Email</a> •
   <a href="https://github.com/Sneha0927">GitHub</a> •
   <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+  <a href="https://v0-sneha-kumari-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 ---
